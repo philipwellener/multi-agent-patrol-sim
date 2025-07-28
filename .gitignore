@@ -1,0 +1,46 @@
+# Build artifacts
+build/
+bin/
+lib/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# Executable
+MultiAgentPatrolSim
+MultiAgentPatrolSim.exe
+
+# IDE files
+.vscode/
+.idea/
+*.vcxproj*
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Temporary files
+*~
+*.tmp
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Documentation
+docs/html/
+docs/latex/
