@@ -12,7 +12,6 @@ A little C++ project I put together to explore autonomous agents with behavior t
 - Each agent has its own "brain" using behavior trees 
 - A* pathfinding so they don't walk into walls
 - They try to avoid bumping into each other (mostly works)
-- Real-time ASCII visualization because why not
 - Tweakable settings if you want to mess around with parameters
 
 ## Project structure
